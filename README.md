@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olowonishaye Sunkanmi</h1>
 <h3 align="center">IT project Manager | Mobile and Website Software Engineer (React and React Native, IOS, Andriod | AI Engineer (Machine Learning)</h3>
 
-- 🔭 I’m currently working on [orr.solution](https://orr.solutions/)
+- 🔭 I’m currently working on websites and mobile apps
 
 - 🌱 I’m currently learning **AI automation and QA testing**
 
