@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on websites and mobile apps
 
-- 🌱 I’m currently learning **AI automation and QA testing**
+- 🌱 I’m currently learning **DevOps,AI automation and QA testing**
 
 - 👯 I’m looking to collaborate on **Web and Mobile App Development**
 
